@@ -1,2 +1,6 @@
 new line from main
+<<<<<<< HEAD
 second line from main
+=======
+second line from dev
+>>>>>>> dev
