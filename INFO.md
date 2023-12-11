@@ -1,1 +1,1 @@
-hello
+after del file
